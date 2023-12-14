@@ -1,1 +1,2 @@
-# pytorch-forward-forward-mnist
+# Forward-Forward Algorithm Implementation
+This repository hosts the collection of notebooks created while completing my Major Qualifying Project (MQP). These notebooks contain a series of experiments designed to delve into the intricacies of Geoffrey Hinton's Forward-Forward Algorithm. The implementation presented here is based on the work of Mohammad Pezeshki. For further reference and to gain a deeper understanding of the original implementation, the source code is available at [Mohammad Pezeshki's GitHub Repository](https://github.com/mpezeshki/pytorch_forward_forward).
